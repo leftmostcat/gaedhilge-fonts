@@ -1,0 +1,84 @@
+SplineFontDB: 3.0
+FontName: Gaedhilge
+FullName: Gaedhilge
+FamilyName: Gaedhilge
+Weight: Medium
+Copyright: 
+UComments: "2013-9-12: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -102.4
+UnderlineWidth: 51.2
+Ascent: 819
+Descent: 205
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 89 208902581 14593133]
+FSType: 8
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1379002930
+ModificationTime: 1379014107
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 36 12
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 1
+
+StartChar: a
+Encoding: 97 97 0
+Width: 1024
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+447 161 m 0
+ 427 93 485 57 536 58 c 0
+ 555 59 599 75 603 106 c 0
+ 607 138 555 272 533 271 c 0
+ 501 270 456 190 447 161 c 0
+506 0 m 0
+ 447 0 421 46 395 68 c 0
+ 376 84 358 69 322 41 c 0
+ 314 35 293 25 299 51 c 0
+ 305 75 312 90 327 111 c 24
+ 405 222 496 332 536 391 c 0
+ 554 417 586 401 587 389 c 0
+ 602 284 657 110 725 22 c 0
+ 745 -4 744 -12 710 0 c 0
+ 684 10 657 53 646 54 c 0
+ 611 59 586 0 506 0 c 0
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
