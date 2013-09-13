@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379002930
-ModificationTime: 1379033669
+ModificationTime: 1379042739
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -40,6 +40,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0-1" [153,15,0] "'kern' Horizontal Kerning in Latin lookup 0-2" [153,15,0] } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -49,6 +50,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
+WidthSeparation: 150
 WinInfo: 0 36 12
 BeginPrivate: 0
 EndPrivate
@@ -58,7 +60,8 @@ StartChar: a
 Encoding: 97 97 0
 Width: 1024
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 57<472.112 588.053>
 LayerCount: 2
 Fore
 SplineSet
@@ -79,13 +82,16 @@ SplineSet
  698 -9 652 44 641 45 c 0
  606 50 589 0 509 0 c 0
 EndSplineSet
+Validated: 33
+Kerns2: 0 -478 "'kern' Horizontal Kerning in Latin lookup 0-2"  1 -519 "'kern' Horizontal Kerning in Latin lookup 0-2" 
 EndChar
 
 StartChar: b
 Encoding: 98 98 1
 Width: 1024
 VWidth: 0
-Flags: HO
+HStem: -23 59<499.011 616.899> 419 27<300 335.824>
+VStem: 378 86<75.0302 284.735 335 417.769> 646 79<68.8403 292.649>
 LayerCount: 2
 Fore
 SplineSet
@@ -106,6 +112,8 @@ SplineSet
  429 539 452 514 457 492 c 0
  457 492 459 425 459 335 c 1
 EndSplineSet
+Validated: 33
+Kerns2: 1 -519 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -505 "'kern' Horizontal Kerning in Latin lookup 0-2" 
 EndChar
 EndChars
 EndSplineFont
