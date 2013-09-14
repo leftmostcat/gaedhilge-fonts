@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379002930
-ModificationTime: 1379180202
+ModificationTime: 1379180539
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -60,7 +60,7 @@ StartChar: a
 Encoding: 97 97 0
 Width: 550
 VWidth: 0
-Flags: HWO
+Flags: HW
 HStem: 0 57<235.145 351.086>
 LayerCount: 2
 Fore
@@ -82,37 +82,37 @@ SplineSet
  461 -9 415 44 404 45 c 0
  369 50 352 0 272 0 c 0
 EndSplineSet
+Validated: 33
 Kerns2: 1 -80 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-2" 
 EndChar
 
 StartChar: b
 Encoding: 98 98 1
-Width: 526
+Width: 508
 VWidth: 0
-Flags: W
-HStem: -11 59<249.011 366.899> 431 27<50 85.8239>
-VStem: 128 86<87.0302 296.735 347 429.769> 396 79<80.8403 304.649>
+Flags: HWO
+HStem: -0 58<238.604 351.511> 433 26<47 79.3508>
+VStem: 123 79<96.174 301.395 351 431.981> 380 74<86.8942 310.22>
 LayerCount: 2
 Fore
 SplineSet
-306 338 m 4
- 245 337 215 274 214 220 c 4
- 213 143 218 47 310 48 c 4
- 403 49 396 141 396 221 c 4
- 396 289 368 339 306 338 c 4
-209 347 m 5
- 232 363 265 392 324 400 c 4
- 390 408 475 345 475 189 c 4
- 475 91 428 -13 306 -11 c 4
- 168 -9 140 69 128 164 c 4
- 128 164 128 302 128 390 c 21
- 128 432 134 431 50 431 c 5
- 50 438 50 444 50 458 c 5
- 106 470 145 515 160 559 c 5
- 179 551 202 526 207 504 c 4
- 207 504 209 437 209 347 c 5
+295 342 m 4
+ 235 341 206 279 205 226 c 4
+ 204 151 209 57 299 58 c 4
+ 390 59 383 149 383 227 c 4
+ 383 294 356 343 295 342 c 4
+200 351 m 5
+ 223 367 255 394 313 402 c 4
+ 378 410 457 349 457 196 c 4
+ 457 100 415 -2 295 0 c 4
+ 166 2 138 78 126 171 c 4
+ 126 171 126 307 126 393 c 21
+ 126 434 132 433 50 433 c 5
+ 50 440 50 445 50 459 c 5
+ 105 471 137 515 152 558 c 5
+ 171 550 193 526 198 504 c 4
+ 198 504 200 439 200 351 c 5
 EndSplineSet
-Validated: 33
 Kerns2: 1 -40 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -30 "'kern' Horizontal Kerning in Latin lookup 0-2" 
 EndChar
 
