@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379002930
-ModificationTime: 1379179666
+ModificationTime: 1379180202
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -60,27 +60,27 @@ StartChar: a
 Encoding: 97 97 0
 Width: 550
 VWidth: 0
-Flags: W
+Flags: HWO
 HStem: 0 57<235.145 351.086>
 LayerCount: 2
 Fore
 SplineSet
-213.033 160 m 0
- 193.033 92 251.033 56 302.033 57 c 0
- 321.033 58 365.033 74 369.033 105 c 0
- 373.033 137 321.033 271 299.033 270 c 0
- 267.033 269 222.033 189 213.033 160 c 0
-272.033 0 m 0
- 213.033 0 184.033 41 158.033 63 c 0
- 139.033 79 124.033 69 88.0332 41 c 0
- 80.0332 35 58.0332 32 59.0332 56 c 0
- 60.0332 77 78.0332 91 93.0332 111 c 24
- 173.033 221 262.033 332 302.033 391 c 0
- 320.033 417 352.033 401 353.033 389 c 0
- 368.033 284 423.033 110 491.033 22 c 0
- 511.033 -4 519.033 -20 476.033 -12 c 0
- 461.033 -9 415.033 44 404.033 45 c 0
- 369.033 50 352.033 0 272.033 0 c 0
+213 160 m 0
+ 193 92 251 56 302 57 c 0
+ 321 58 365 74 369 105 c 0
+ 373 137 321 271 299 270 c 0
+ 267 269 222 189 213 160 c 0
+272 0 m 0
+ 213 0 184 41 158 63 c 0
+ 139 79 124 69 88 41 c 0
+ 80 35 58 32 59 56 c 0
+ 60 77 78 91 93 111 c 24
+ 173 221 262 332 302 391 c 0
+ 320 417 352 401 353 389 c 0
+ 368 284 423 110 491 22 c 0
+ 511 -4 519 -20 476 -12 c 0
+ 461 -9 415 44 404 45 c 0
+ 369 50 352 0 272 0 c 0
 EndSplineSet
 Kerns2: 1 -80 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-2" 
 EndChar
@@ -112,6 +112,7 @@ SplineSet
  179 551 202 526 207 504 c 4
  207 504 209 437 209 347 c 5
 EndSplineSet
+Validated: 33
 Kerns2: 1 -40 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -30 "'kern' Horizontal Kerning in Latin lookup 0-2" 
 EndChar
 
@@ -119,7 +120,7 @@ StartChar: c
 Encoding: 99 99 2
 Width: 504
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 54<196.201 321.131> 366 54<196.998 309.11>
 VStem: 56 86<118.519 302.901>
 LayerCount: 2
@@ -137,6 +138,7 @@ SplineSet
  150 0 59 94 56 208 c 24
  53 321 134 421 253 420 c 0
 EndSplineSet
+Validated: 33
 EndChar
 EndChars
 EndSplineFont
