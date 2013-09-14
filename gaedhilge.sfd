@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379002930
-ModificationTime: 1379178964
+ModificationTime: 1379179666
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -54,13 +54,13 @@ WinInfo: 36 36 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 2
+BeginChars: 65536 3
 
 StartChar: a
 Encoding: 97 97 0
 Width: 550
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 57<235.145 351.086>
 LayerCount: 2
 Fore
@@ -113,6 +113,30 @@ SplineSet
  207 504 209 437 209 347 c 5
 EndSplineSet
 Kerns2: 1 -40 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -30 "'kern' Horizontal Kerning in Latin lookup 0-2" 
+EndChar
+
+StartChar: c
+Encoding: 99 99 2
+Width: 504
+VWidth: 0
+Flags: WO
+HStem: 0 54<196.201 321.131> 366 54<196.998 309.11>
+VStem: 56 86<118.519 302.901>
+LayerCount: 2
+Fore
+SplineSet
+253 420 m 0
+ 348 419 447 341 448 312 c 1
+ 436 292 404 269 378 267 c 1
+ 356 276 322 366 256 366 c 0
+ 198 366 143 311 142 210 c 0
+ 141 100 202 54 262 54 c 0
+ 322 54 369 126 399 132 c 1
+ 414 131 432 115 434 99 c 1
+ 427 67 339 0 263 0 c 0
+ 150 0 59 94 56 208 c 24
+ 53 321 134 421 253 420 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
