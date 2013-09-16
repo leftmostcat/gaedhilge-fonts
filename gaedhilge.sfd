@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379002930
-ModificationTime: 1379295164
+ModificationTime: 1379312730
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -39,7 +39,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0-1" [153,15,0] "'kern' Horizontal Kerning in Latin lookup 0-2" [153,15,0] } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0-1" [153,15,0] } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2013, Se+AOEA-n de B+APoA-rca (leftmostcat@gmail.com),+AAoA-with Reserved Font Name Gaedhilge.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
@@ -83,7 +83,7 @@ SplineSet
  369 50 352 0 272 0 c 0
 EndSplineSet
 Validated: 33
-Kerns2: 3 -80 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -80 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-2" 
+Kerns2: 3 -100 "'kern' Horizontal Kerning in Latin lookup 0-1"  2 -60 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -80 "'kern' Horizontal Kerning in Latin lookup 0-1"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-1" 
 EndChar
 
 StartChar: b
@@ -91,84 +91,84 @@ Encoding: 98 98 1
 Width: 508
 VWidth: 0
 Flags: W
-HStem: 0 58<241.604 354.511> 433 26<50 82.3508>
-VStem: 126 79<96.174 301.395 351 431.981> 383 74<86.8942 310.22>
+HStem: 0 58<241.933 354.142> 433 26<55 87.2417>
+VStem: 131 74<96.174 301.395 351 431.981> 383 70<85.7365 310.22>
 LayerCount: 2
 Fore
 SplineSet
-295 342 m 4
- 235 341 206 279 205 226 c 4
- 204 151 209 57 299 58 c 4
- 390 59 383 149 383 227 c 4
- 383 294 356 343 295 342 c 4
-200 351 m 5
- 223 367 255 394 313 402 c 4
- 378 410 457 349 457 196 c 4
- 457 100 415 -2 295 0 c 4
- 166 2 138 78 126 171 c 4
- 126 171 126 307 126 393 c 21
- 126 434 132 433 50 433 c 5
- 50 440 50 445 50 459 c 5
- 105 471 137 515 152 558 c 5
- 171 550 193 526 198 504 c 4
- 198 504 200 439 200 351 c 5
+295 342 m 0
+ 235 341 206 279 205 226 c 0
+ 204 151 209 57 299 58 c 0
+ 390 59 383 149 383 227 c 0
+ 383 294 356 343 295 342 c 0
+200 351 m 1
+ 223 367 255 394 313 402 c 0
+ 378 410 453 349 453 196 c 0
+ 453 100 415 -2 295 0 c 0
+ 166 2 143 78 131 171 c 0
+ 131 171 131 306 131 393 c 17
+ 131 434 137 433 55 433 c 1
+ 55 440 55 445 55 459 c 1
+ 110 471 137 515 152 558 c 1
+ 171 550 193 526 198 504 c 0
+ 198 504 200 439 200 351 c 1
 EndSplineSet
 Validated: 33
-Kerns2: 3 -30 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -40 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -30 "'kern' Horizontal Kerning in Latin lookup 0-2" 
+Kerns2: 2 -10 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -40 "'kern' Horizontal Kerning in Latin lookup 0-1"  0 -30 "'kern' Horizontal Kerning in Latin lookup 0-1" 
 EndChar
 
 StartChar: c
 Encoding: 99 99 2
 Width: 504
 VWidth: 0
-Flags: W
-HStem: 0 54<196.201 321.131> 366 54<196.998 309.11>
-VStem: 56 86<118.519 302.901>
+Flags: WO
+HStem: 0 54<197.201 322.131> 366 54<197.998 310.11>
+VStem: 57 86<118.519 302.901>
 LayerCount: 2
 Fore
 SplineSet
-253 420 m 0
- 348 419 447 341 448 312 c 1
- 436 292 404 269 378 267 c 1
- 356 276 322 366 256 366 c 0
- 198 366 143 311 142 210 c 0
- 141 100 202 54 262 54 c 0
- 322 54 369 126 399 132 c 1
- 414 131 432 115 434 99 c 1
- 427 67 339 0 263 0 c 0
- 150 0 59 94 56 208 c 24
- 53 321 134 421 253 420 c 0
+254 420 m 4
+ 349 419 448 341 449 312 c 5
+ 437 292 405 269 379 267 c 5
+ 357 276 323 366 257 366 c 4
+ 199 366 144 311 143 210 c 4
+ 142 100 203 54 263 54 c 4
+ 323 54 370 126 400 132 c 5
+ 415 131 433 115 435 99 c 5
+ 428 67 340 0 264 0 c 4
+ 151 0 60 94 57 208 c 28
+ 54 321 135 421 254 420 c 4
 EndSplineSet
-Validated: 33
-Kerns2: 3 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 
+Kerns2: 3 -40 "'kern' Horizontal Kerning in Latin lookup 0-1"  2 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -30 "'kern' Horizontal Kerning in Latin lookup 0-1"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-1" 
 EndChar
 
 StartChar: d
 Encoding: 100 100 3
 Width: 603
 VWidth: 0
-Flags: HWO
-HStem: -17 61<313.679 413.328> 336 51<312.485 417.531>
-VStem: 197 72<100.517 280.611> 455 81<95.1592 290.014>
+Flags: W
+HStem: 0 61<313.679 411.005> 353 51<312.485 417.531>
+VStem: 197 72<117.517 297.611> 455 81<110.424 307.014>
 LayerCount: 2
 Fore
 SplineSet
-269 196 m 0
- 271 150 290 46 361 44 c 0
- 427 42 454 122 455 190 c 24
- 456 257 435 336 365 336 c 0
- 300 336 266 261 269 196 c 0
-90 389 m 1
- 111 387 93 366 199 363 c 0
- 265 361 327 389 373 387 c 0
- 443 384 536 318 536 197 c 0
- 536 81 469 -21 369 -17 c 0
- 263 -13 196 81 197 169 c 0
- 198 274 219 272 223 289 c 1
- 167 303 81 237 67 239 c 1
- 61 251 70 383 90 389 c 1
+269 213 m 0
+ 271 167 290 63 361 61 c 0
+ 427 59 454 139 455 207 c 24
+ 456 274 435 353 365 353 c 0
+ 300 353 266 278 269 213 c 0
+90 406 m 1
+ 111 404 93 383 199 380 c 0
+ 265 378 327 406 373 404 c 0
+ 443 401 536 335 536 214 c 0
+ 536 98 475 0 369 0 c 0
+ 263 0 196 98 197 186 c 0
+ 198 291 219 289 223 306 c 1
+ 167 320 81 254 67 256 c 1
+ 61 268 70 400 90 406 c 1
 EndSplineSet
-Kerns2: 3 -40 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -30 "'kern' Horizontal Kerning in Latin lookup 0-1"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-1" 
+Validated: 33
+Kerns2: 3 -80 "'kern' Horizontal Kerning in Latin lookup 0-1"  2 -40 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -80 "'kern' Horizontal Kerning in Latin lookup 0-1"  0 -70 "'kern' Horizontal Kerning in Latin lookup 0-1" 
 EndChar
 EndChars
 EndSplineFont
