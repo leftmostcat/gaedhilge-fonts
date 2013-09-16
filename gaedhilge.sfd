@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379002930
-ModificationTime: 1379180539
+ModificationTime: 1379295164
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -54,14 +54,14 @@ WinInfo: 36 36 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 3
+BeginChars: 65536 4
 
 StartChar: a
 Encoding: 97 97 0
 Width: 550
 VWidth: 0
-Flags: HW
-HStem: 0 57<235.145 351.086>
+Flags: W
+HStem: 0 57<235.112 351.053>
 LayerCount: 2
 Fore
 SplineSet
@@ -83,16 +83,16 @@ SplineSet
  369 50 352 0 272 0 c 0
 EndSplineSet
 Validated: 33
-Kerns2: 1 -80 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-2" 
+Kerns2: 3 -80 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -80 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-2" 
 EndChar
 
 StartChar: b
 Encoding: 98 98 1
 Width: 508
 VWidth: 0
-Flags: HWO
-HStem: -0 58<238.604 351.511> 433 26<47 79.3508>
-VStem: 123 79<96.174 301.395 351 431.981> 380 74<86.8942 310.22>
+Flags: W
+HStem: 0 58<241.604 354.511> 433 26<50 82.3508>
+VStem: 126 79<96.174 301.395 351 431.981> 383 74<86.8942 310.22>
 LayerCount: 2
 Fore
 SplineSet
@@ -113,7 +113,8 @@ SplineSet
  171 550 193 526 198 504 c 4
  198 504 200 439 200 351 c 5
 EndSplineSet
-Kerns2: 1 -40 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -30 "'kern' Horizontal Kerning in Latin lookup 0-2" 
+Validated: 33
+Kerns2: 3 -30 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -40 "'kern' Horizontal Kerning in Latin lookup 0-2"  0 -30 "'kern' Horizontal Kerning in Latin lookup 0-2" 
 EndChar
 
 StartChar: c
@@ -139,6 +140,35 @@ SplineSet
  53 321 134 421 253 420 c 0
 EndSplineSet
 Validated: 33
+Kerns2: 3 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 
+EndChar
+
+StartChar: d
+Encoding: 100 100 3
+Width: 603
+VWidth: 0
+Flags: HWO
+HStem: -17 61<313.679 413.328> 336 51<312.485 417.531>
+VStem: 197 72<100.517 280.611> 455 81<95.1592 290.014>
+LayerCount: 2
+Fore
+SplineSet
+269 196 m 0
+ 271 150 290 46 361 44 c 0
+ 427 42 454 122 455 190 c 24
+ 456 257 435 336 365 336 c 0
+ 300 336 266 261 269 196 c 0
+90 389 m 1
+ 111 387 93 366 199 363 c 0
+ 265 361 327 389 373 387 c 0
+ 443 384 536 318 536 197 c 0
+ 536 81 469 -21 369 -17 c 0
+ 263 -13 196 81 197 169 c 0
+ 198 274 219 272 223 289 c 1
+ 167 303 81 237 67 239 c 1
+ 61 251 70 383 90 389 c 1
+EndSplineSet
+Kerns2: 3 -40 "'kern' Horizontal Kerning in Latin lookup 0-1"  1 -30 "'kern' Horizontal Kerning in Latin lookup 0-1"  0 -40 "'kern' Horizontal Kerning in Latin lookup 0-1" 
 EndChar
 EndChars
 EndSplineFont
